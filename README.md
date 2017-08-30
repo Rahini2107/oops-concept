@@ -1,12 +1,12 @@
-#JAVA
+# JAVA
      Java is oops based programming language. Java has many features mainly it is platform independent and object oriented. Java uses unicode system. 
- ##OOPs concept:
+ ## OOPs concept:
       The basics of OOPs concept are
-            *1.Inheritance
-            *2.polymorphism
-            *3.Abstraction
-            *4.Encapsulation
-     ###1.Inheritance:
+            * Inheritance
+            * polymorphism
+            * Abstraction
+            * Encapsulation
+ ### 1.Inheritance:
           In java inheritance is done with the help of the keyword "extends"
           Inheritance is the concept of inheriting one class to another class
           Java does not support multiple inheritance in order to reduce the ambiguity i.e complexity but multiple inheritance can be acheived through interfaces 
