@@ -11,7 +11,8 @@
  ### 1.Inheritance:
           In java inheritance is done with the help of the keyword "extends"
           Inheritance is the concept of inheriting one class to another class
-          Java does not support multiple inheritance in order to reduce the ambiguity i.e complexity but multiple inheritance can be acheived through interfaces 
+          Java does not support multiple inheritance in order to reduce the ambiguity i.e complexity 
+          multiple inheritance can be acheived through interfaces 
           other than multiple inheritance all other inheritance is supported in java
           Their are two classes in the inheritance one is the Sub-class and other is a Super-class 
         
