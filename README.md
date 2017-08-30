@@ -1,5 +1,7 @@
 # JAVA
-     Java is oops based programming language. Java has many features mainly it is platform independent and object oriented. Java uses unicode system. 
+     - Java is oops based programming language. 
+     - Java has many features mainly it is platform independent and object oriented. 
+     - Java uses unicode system. 
  ## OOPs concept:
       The basics of OOPs concept are
             * Inheritance
